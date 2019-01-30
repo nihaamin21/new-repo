@@ -1,0 +1,1 @@
+http://localhost/custom-theme/wp-login.php?loggedout=true
